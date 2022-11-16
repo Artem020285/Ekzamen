@@ -1,0 +1,45 @@
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.exe
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.deps.json
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.runtimeconfig.json
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.dll
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.pdb
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.csproj.AssemblyReference.cache
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.GeneratedMSBuildEditorConfig.editorconfig
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.AssemblyInfoInputs.cache
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.AssemblyInfo.cs
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.csproj.CoreCompileInputs.cache
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.dll
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\refint\Ekzamen.dll
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.pdb
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.genruntimeconfig.cache
+F:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\ref\Ekzamen.dll
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.csproj.AssemblyReference.cache
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.AssemblyInfoInputs.cache
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.AssemblyInfo.cs
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.csproj.CoreCompileInputs.cache
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.dll
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\refint\Ekzamen.dll
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.pdb
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.exe
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.deps.json
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.runtimeconfig.json
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.dll
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.pdb
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.genruntimeconfig.cache
+E:\ЭКЗАМЕНЫ\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\ref\Ekzamen.dll
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.exe
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.deps.json
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.runtimeconfig.json
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.dll
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\bin\Debug\net6.0\Ekzamen.pdb
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.csproj.AssemblyReference.cache
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.AssemblyInfoInputs.cache
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.AssemblyInfo.cs
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.csproj.CoreCompileInputs.cache
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.dll
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\refint\Ekzamen.dll
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.pdb
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\Ekzamen.genruntimeconfig.cache
+D:\ШАГ ДОМАШНЯЯ РАБОТА\Экзамен по С#\Ekzamen\Ekzamen\obj\Debug\net6.0\ref\Ekzamen.dll
